@@ -1,0 +1,74 @@
+Making Embedded Systems
+=======================
+Tasks:
+	- Download and organize class slides
+	- Access to sessions recordings: Any reply to my messages in discord? - OK 
+		* Under 'Kickoff' click 1. Lecture - Kickoff - Live Session and the video will show up in the player
+	- Finalize Lecture 01 - Live Session - ON GOING
+		* Check-point (52'33)
+	- Come up with diagrams (Week 1) exercises
+		- Ask mentors whether it's ok to delay the delivery, once I'm not joining first 2 classes
+		
+	- Falar com Jailton
+	
+Lecture 01 - Introduction and System Architecture(27.08 ~ 03.09)
+----------------------------------------------------------------
+	- Watch the videos - OK 
+	- Do the quizez	- OK
+	- Watch Live session Video - OK
+	- Read Chapter 2: Creating a System Architecture - OK
+	- Do the exercise: Idea project diagram  - OK
+	
+Lecture 02 - GEtting Your Hands On The Hardware (03.09 ~ 10.09)
+---------------------------------------------------------------
+	- Watch Live Session - OK
+	- Read Chapter 3: Getting Your Hands on the Hardware - OK
+	- Watch the videos - OK
+	- Do the quizez - OK
+	- Do the Exercise: Investigate Project Board - OK(ish)
+	
+Lecture 03 - Inputs Outputs and Timers (10.09 ~ 17.09)
+------------------------------------------------------
+	- Watch Live Session - ok
+	- Read Chapter 4: Outputs, Inputs and Timers - OK
+	- Watch the videos - OK
+	- Do the quizez - OK
+	- Exercise: Make Blinky - Partially OK
+		- Install IDE (STM32CubeIDE) - OK
+		- Implement reference code for LED Toggle - OK
+		- Load the code into the board - OK
+		- Further improve the code to meet exercise requests
+			- Blink on button push - OK
+			- Add interrupt - OK
+				- Add log
+			- Add debouncing - OK
+			- Implement in C++ (this must be your drive moving forward) - NOK
+		- Reply the exercise questions - NOK
+
+Lecture 04 - Managing the Flow of Activity (17.09 ~ 24.09)
+----------------------------------------------------------
+- Watch Live Session - OK
+- Read Chapter 05 - Managing the Flow of Activity - OK
+- Set-up git repository:
+	- Classes
+	- Final Project
+- Watch the videos - OK
+- Do the quizez - OK
+- Exercise: Partially OK (Need to do a state machine using excel)
+
+Lecture 05 - Communicating with Peripherals (24.09 ~ 01.10)
+-----------------------------------------------------------
+- Watch Live Session - OK
+- Read Chapter 06 (1/2)- Communicating with Peripherals
+	* Only half of it for the first assignmentlkfhg
+- Set-up git repository:
+	- Classes - OK
+	- Final Project
+- Watch the videos -
+- Do the quizez -
+- Exercise:
+	
+	
+
+What happens before 'main()'?
+

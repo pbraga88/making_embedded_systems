@@ -1,0 +1,28 @@
+LEDs
+====
+	• LD1 COM:
+	The LD1 default status is red. LD1 turns to green to indicate that communications are in
+	progress between the PC and the ST-LINK/V2.
+	• LD2 PWR:
+	The red LED indicates that the board is powered.
+	• User LD3:
+	The orange LED is a user LED connected to the I/O PD13 of the STM32F411VET6.
+	• User LD4:
+	The green LED is a user LED connected to the I/O PD12 of the STM32F411VET6.
+	• User LD5:
+	The red LED is a user LED connected to the I/O PD14 of the STM32F411VET6.
+	• User LD6:
+	The blue LED is a user LED connected to the I/O PD15 of the STM32F411VET6.
+	• USB LD7:
+	The green LED indicates when VBUS is present on CN5 and is connected to PA9 of
+	the STM32F411VET6.
+	• USB LD8:
+	The red LED indicates an overcurrent from VBUS of CN5 and is connected to the I/O
+	PD5 of the STM32F411VET6.
+
+Pushbuttons
+===========
+	• B1 USER:
+	User and Wake-Up button connected to the I/O PA0 of the STM32F411VE.
+	• B2 RESET:
+	The pushbutton connected to NRST is used to RESET the STM32F411VE.
